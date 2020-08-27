@@ -1,0 +1,60 @@
+/* .contener {
+  margin: auto;
+  height: auto;
+  width: 1500px;
+} */
+
+.logo img {
+  height: 300px;
+  width: 300px;
+  margin: 60px 0px 0px 600px;
+  /* margin-top: 80px; */
+}
+.menu ul {
+  margin: -60px 0px 0px 465px;
+  width: 40%;
+}
+.menu ul li {
+  display: inline;
+  padding: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(52, 52, 53);
+}
+
+ul li:hover {
+  font-weight: bold;
+  color: rgb(9, 3, 66);
+}
+hr {
+  margin-top: 30px;
+  border: solid 1px rgb(52, 52, 53);
+}
+.icons {
+  margin-left: 680px;
+  /* margin-top: 40px; */
+}
+.icon {
+  display: inline;
+  padding: 10px;
+}
+.icon img {
+  height: 30px;
+  width: 30px;
+}
+.gallery img {
+  margin: 50px 0px 0px 80px;
+  height: 400px;
+  width: 400px;
+  /* padding: 20px; */
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  color: rgb(52, 52, 53);
+  text-align: center;
+}
+.about img {
+  width: 600px;
+  height: 400px;
+  margin: 0px 0px 0px 450px;
+}
